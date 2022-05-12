@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#app{
+    background-color: aquamarine;
+}
+#game{
+    background-color: coral;
+}
+.line{
+    width:70px;
+    height:6px;
+    background-color: aqua;
+    margin:8px;
+}
+
